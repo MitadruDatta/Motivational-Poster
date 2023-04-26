@@ -3,19 +3,19 @@ body {
 }
 
 h1 {
-    color: white;
+    color: #FF6000;
     font-family: 'Libre Baskerville', serif;
     text-align: center;
 }
 
 p {
-    color: white;
+    color: #FFE6C7;
     text-align: center;
 }
 
 #mainPhoto {
     width: 100%;
-    border: 1.3rem solid snow;
+    border: 0.2rem solid gold;
 }
 
 #mainDiv {
