@@ -24,3 +24,12 @@ p {
     margin-left: 25%;
     margin-top: 15%;
 }
+
+@media (min-width=1200px) {
+    #mainDiv {
+        width: 50%;
+        margin-left: 25%;
+        margin-top: 5%;
+    }
+
+}
